@@ -7,7 +7,7 @@ cv2.putText(img,
            'Sun' ,
            (20, 300),  
            fontFace=cv2.FONT_HERSHEY_COMPLEX_SMALL,
-           fontScale=0.1,  
+           fontScale=0.5,  
            color=(255,255,255)
            )
 
